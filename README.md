@@ -1,4 +1,4 @@
-# Travel_Agency_Website_Landing_Page
+# CodSoft_Travel_Agency_Website_Landing_Page
 <br>
 This is a responsive landing page built for a travel agency website using HTML and CSS. The project showcases a clean and modern design aimed at promoting travel packages and destinations to users in an attractive way.
 
